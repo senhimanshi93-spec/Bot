@@ -13,7 +13,7 @@ def my_output(query):
 
 #### UI Development using streamlit 
 
-st.set_page_config(page_title="QUERY_BOT")
+st.set_page_config(page_title="Himanshi's Bot 🤖 ")
 st.header("QUERY_BOT") 
 input = st.text_input("Input " , key = "input")  
 submit = st.button("Ask your query") 
